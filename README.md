@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sanjairam575/leetcode/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/sanjairam575/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sanjairam575/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sanjairam575/leetcode/tree/master/0258-add-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjairam575/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjairam575/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sanjairam575/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
