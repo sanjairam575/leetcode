@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjairam575/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/sanjairam575/leetcode/tree/master/2886-faulty-keyboard) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjairam575/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjairam575/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
