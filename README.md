@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
 | [1580-shuffle-the-array](https://github.com/sanjairam575/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/sanjairam575/leetcode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/sanjairam575/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/sanjairam575/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sanjairam575/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
+| [1791-richest-customer-wealth](https://github.com/sanjairam575/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sanjairam575/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting
 |  |
