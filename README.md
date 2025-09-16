@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sanjairam575/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
+| [1580-shuffle-the-array](https://github.com/sanjairam575/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/sanjairam575/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/sanjairam575/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sanjairam575/leetcode/tree/master/2058-concatenation-of-array) |
