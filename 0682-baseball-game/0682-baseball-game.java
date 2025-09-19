@@ -1,25 +1,27 @@
 class Solution {
-    public int calPoints(String[] str) {
-        List<Integer>list=new ArrayList<>();
-        for(int i=0;i<str.length;i++){
-            if(!(str[i].equals("+")||str[i].equals("C")||str[i].equals("D"))){
-                int num=Integer.parseInt(str[i]);
-                list.add(num);
+    public int calPoints(String[] operations) {
+      Stack<Integer>stack=new Stack<>();int sum=0;
+      for(int i=0;i<operations.length;i++){
+        
+        if(operations[i].length()>1){
+        stack.push(Integer.parseInt(operations[i]));}
+        else{
+            char ch=operations[i].charAt(0);
+            if(ch>='0'&&ch<='9'){
+                stack.push(ch-'0');
+
+            }else if(ch=='C') stack.pop();
+            else if(ch=='D')stack.push(stack.peek()*2);
+            else if(ch=='+'){
+                int temp=stack.pop();
+                int current=temp+stack.peek();
+                stack.push(temp);
+                stack.push(current);
             }
-            else if(str[i].equals("+")){
-                list.add(list.get(list.size()-1)+list.get(list.size()-2));
-            }
-            else if(str[i].equals("D")){
-                list.add(list.get(list.size()-1)*2);
-            }
-            else if(str[i].equals("C")){
-                list.remove(list.size()-1);
-            }
-        }   
-        int sum=0;
-        for(int arr:list){
-            sum+=arr;
         }
-        return sum;
+      }
+      for(int num:stack){
+        sum+=num;
+      }return sum;
     }
 }
