@@ -1,20 +1,24 @@
 class Solution {
     public int maxFreqSum(String s) {
-        int freq1[]=new int[26];
-        int freq2[]=new int[26];
+        Map<Character,Integer>map=new HashMap<>();
         for(char ch:s.toCharArray()){
-            if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
-                freq1[ch-'a']++;
-            }
-            else freq2[ch-'a']++;
+           // if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
+                map.put(ch,map.getOrDefault(ch,0)+1);
+            
         }
-        int max1=0,max2=0;
-        for(int i=0;i<freq1.length;i++){
-            max1=Math.max(max1,freq1[i]);
+        int vmax=0,cmax=0;
+        for(char ch : s.toCharArray()){
+           if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'){
+                if(vmax<map.get(ch)){
+                    vmax=map.get(ch);
+                }
+           }
+           else{
+            if(cmax<map.get(ch)){
+            cmax=map.get(ch);
+           }
         }
-        for(int i=0;i<freq2.length;i++){
-            max2=Math.max(max2,freq2[i]);
         }
-    return max1+max2;
+        return vmax+cmax;
     }
 }
