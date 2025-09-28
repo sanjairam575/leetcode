@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sanjairam575/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
+| [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjairam575/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/sanjairam575/leetcode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/sanjairam575/leetcode/tree/master/1635-number-of-good-pairs) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/sanjairam575/leetcode/tree/master/0258-add-digits) |
 | [0504-base-7](https://github.com/sanjairam575/leetcode/tree/master/0504-base-7) |
+| [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1635-number-of-good-pairs](https://github.com/sanjairam575/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanjairam575/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sanjairam575/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjairam575/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sanjairam575/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3778-transform-array-by-parity](https://github.com/sanjairam575/leetcode/tree/master/3778-transform-array-by-parity) |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjairam575/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
