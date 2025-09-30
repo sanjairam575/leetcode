@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanjairam575/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sanjairam575/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/sanjairam575/leetcode/tree/master/3778-transform-array-by-parity) |
+| [4008-restore-finishing-order](https://github.com/sanjairam575/leetcode/tree/master/4008-restore-finishing-order) |
 ## Simulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sanjairam575/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sanjairam575/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjairam575/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/sanjairam575/leetcode/tree/master/4008-restore-finishing-order) |
 ## String
 |  |
 | ------- |
