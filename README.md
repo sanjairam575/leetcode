@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/sanjairam575/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/sanjairam575/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/sanjairam575/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sanjairam575/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sanjairam575/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sanjairam575/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjairam575/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanjairam575/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/sanjairam575/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/sanjairam575/leetcode/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/sanjairam575/leetcode/tree/master/2886-faulty-keyboard) |
