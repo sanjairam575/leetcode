@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sanjairam575/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjairam575/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/sanjairam575/leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjairam575/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sanjairam575/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2406-decode-the-message](https://github.com/sanjairam575/leetcode/tree/master/2406-decode-the-message) |
@@ -149,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjairam575/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
