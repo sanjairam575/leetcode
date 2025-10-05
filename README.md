@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/sanjairam575/leetcode/tree/master/2886-faulty-keyboard) |
 | [3412-permutation-difference-between-two-strings](https://github.com/sanjairam575/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/sanjairam575/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjairam575/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1635-number-of-good-pairs](https://github.com/sanjairam575/leetcode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanjairam575/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3567-convert-date-to-binary](https://github.com/sanjairam575/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sanjairam575/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjairam575/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
