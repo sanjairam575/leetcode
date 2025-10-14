@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sanjairam575/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sanjairam575/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/sanjairam575/leetcode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sanjairam575/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/sanjairam575/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjairam575/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2406-decode-the-message](https://github.com/sanjairam575/leetcode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/sanjairam575/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2502-sort-the-people](https://github.com/sanjairam575/leetcode/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/sanjairam575/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/sanjairam575/leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sanjairam575/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/sanjairam575/leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/sanjairam575/leetcode/tree/master/2406-decode-the-message) |
+| [2502-sort-the-people](https://github.com/sanjairam575/leetcode/tree/master/2502-sort-the-people) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/sanjairam575/leetcode/tree/master/2886-faulty-keyboard) |
 | [3412-permutation-difference-between-two-strings](https://github.com/sanjairam575/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjairam575/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2502-sort-the-people](https://github.com/sanjairam575/leetcode/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/sanjairam575/leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3778-transform-array-by-parity](https://github.com/sanjairam575/leetcode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
