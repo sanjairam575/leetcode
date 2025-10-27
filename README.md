@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanjairam575/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanjairam575/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sanjairam575/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sanjairam575/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanjairam575/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sanjairam575/leetcode/tree/master/0015-3sum) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanjairam575/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sanjairam575/leetcode/tree/master/0011-container-with-most-water) |
 | [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sanjairam575/leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Binary Search
