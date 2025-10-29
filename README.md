@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/sanjairam575/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sanjairam575/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjairam575/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sanjairam575/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjairam575/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sanjairam575/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjairam575/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/sanjairam575/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
