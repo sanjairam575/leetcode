@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanjairam575/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/sanjairam575/leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/sanjairam575/leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/sanjairam575/leetcode/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/sanjairam575/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sanjairam575/leetcode/tree/master/0049-group-anagrams) |
+| [0415-add-strings](https://github.com/sanjairam575/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sanjairam575/leetcode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanjairam575/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/sanjairam575/leetcode/tree/master/0782-jewels-and-stones) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanjairam575/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/sanjairam575/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sanjairam575/leetcode/tree/master/0504-base-7) |
 | [1018-largest-perimeter-triangle](https://github.com/sanjairam575/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1635-number-of-good-pairs](https://github.com/sanjairam575/leetcode/tree/master/1635-number-of-good-pairs) |
