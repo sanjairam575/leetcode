@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/sanjairam575/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sanjairam575/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/sanjairam575/leetcode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/sanjairam575/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3371-harshad-number](https://github.com/sanjairam575/leetcode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sanjairam575/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/sanjairam575/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanjairam575/leetcode/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/sanjairam575/leetcode/tree/master/2491-smallest-even-multiple) |
 ## Stack
 |  |
 | ------- |
