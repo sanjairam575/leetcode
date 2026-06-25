@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/sanjairam575/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/sanjairam575/leetcode/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjairam575/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3894-traffic-signal-color](https://github.com/sanjairam575/leetcode/tree/master/3894-traffic-signal-color) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/sanjairam575/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3636-check-balanced-string](https://github.com/sanjairam575/leetcode/tree/master/3636-check-balanced-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sanjairam575/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3894-traffic-signal-color](https://github.com/sanjairam575/leetcode/tree/master/3894-traffic-signal-color) |
 ## Math
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sanjairam575/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sanjairam575/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sanjairam575/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3894-traffic-signal-color](https://github.com/sanjairam575/leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/sanjairam575/leetcode/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
